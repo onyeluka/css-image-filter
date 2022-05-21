@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(to right, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url('img/image1gradient.jpg');
+    background-size: cover;
+    width: 80%;
+    background-repeat: no-repeat center center fixed;
+}
